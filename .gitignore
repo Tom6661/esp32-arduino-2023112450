@@ -1,0 +1,14 @@
+# Arduino-generated files
+*.hex
+*.elf
+*.bin
+*.map
+build/
+
+# IDE and OS files
+.vscode/
+.idea/
+*.user
+*.swp
+Thumbs.db
+.DS_Store
