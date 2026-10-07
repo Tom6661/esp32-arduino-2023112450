@@ -12,3 +12,13 @@ build/
 *.swp
 Thumbs.db
 .DS_Store
+
+# Local Arduino CLI configuration and downloaded packages
+arduino-cli.yaml
+.arduino15/
+Arduino/
+
+# Local certificate files used for GitHub access
+.github-ca.pem
+.github-ca-bundle.pem
+.steamtools-root.cer
